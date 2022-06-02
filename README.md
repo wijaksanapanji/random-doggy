@@ -13,4 +13,4 @@ A site with the only purpose is to show random picture a dog, from [dog.ceo](htt
 
 ## Demo
 
-Visit here: [https://random-doggy-c98yi1a8n-wijaksanapanji.vercel.app](https://random-doggy-c98yi1a8n-wijaksanapanji.vercel.app)
+Visit here: [https://random-doggy.vercel.app](https://random-doggy.vercel.app)
