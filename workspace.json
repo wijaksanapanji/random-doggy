@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "dog-api": "libs/dog-api",
     "doggy": "apps/doggy",
     "doggy-e2e": "apps/doggy-e2e"
   }

@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-next/dog-api": ["libs/dog-api/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
